@@ -22,7 +22,7 @@
     * User can turn on/off recording in background and change the recording interval here.
     
 ### Server Side
-> `/server folder`
+> `/Server folder`
 * Use python flask as server framework
 * Will parse data from mass.gov and get the latest COVID-19 cases by city/town.
 * Functions in t.py (server code)
